@@ -1,0 +1,14 @@
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\bin\Debug\net8.0\FORM_C#_2.exe
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\bin\Debug\net8.0\FORM_C#_2.deps.json
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\bin\Debug\net8.0\FORM_C#_2.runtimeconfig.json
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\bin\Debug\net8.0\FORM_C#_2.dll
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\bin\Debug\net8.0\FORM_C#_2.pdb
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.AssemblyInfo.cs
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.dll
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\refint\FORM_C#_2.dll
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.pdb
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\FORM_C#_2.genruntimeconfig.cache
+C:\Users\maria\source\repos\ConsoleApp1\FORM_C#_2\obj\Debug\net8.0\ref\FORM_C#_2.dll
